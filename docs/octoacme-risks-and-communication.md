@@ -20,9 +20,13 @@ Maintain a simple table with:
 - Monitor: review at weekly syncs and update status
 
 ## Stakeholder Communication
-- Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
+- Identify stakeholder groups and communication needs (e.g., engineering, sales, support, customers)
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Coordinate customer-facing communications with Customer Success Manager
+- Share UX research findings and design changes with relevant stakeholders (coordinated by UX Designer)
+- Communicate infrastructure changes and maintenance windows (led by DevOps Engineer)
+- Share data insights and metric reports with leadership (prepared by Data Analyst)
 
 ## Communication Templates
 Weekly Status Template:
@@ -30,6 +34,10 @@ Weekly Status Template:
 - Next steps:
 - Risks & blockers:
 - Ask / decisions needed:
+- Design/UX updates (if applicable):
+- Infrastructure/deployment notes (if applicable):
+- Customer feedback highlights (if applicable):
+- Key metrics update (if applicable):
 
 Incident Communication
 - Triage summary

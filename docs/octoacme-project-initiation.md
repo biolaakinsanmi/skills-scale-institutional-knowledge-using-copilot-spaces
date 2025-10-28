@@ -28,6 +28,15 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
 - Proposed team / roles:
+  - Project Manager:
+  - Product Manager:
+  - Tech Lead / Developers:
+  - UX Designer (if applicable):
+  - Scrum Master / Agile Coach (if applicable):
+  - DevOps Engineer:
+  - QA/Testing:
+  - Customer Success Manager (for customer-facing features):
+  - Data Analyst (for metric-driven initiatives):
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
